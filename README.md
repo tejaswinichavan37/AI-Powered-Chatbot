@@ -1,1 +1,2 @@
 # AI-Powered-Chatbot
+Developed an AI-powered customer support chatbot to provide real-time knowledge on artificial intelligence, utilizing Next.js, Material UI, and MongoDB for user interface and authentication. Integrated OpenAI and AWS Bedrock APIs with advanced models (Anthropic Claude, GPT-4) for response generation. Enhanced accuracy through Retrieval-Augmented Generation (RAG) with LangChain and Pinecone and implemented prompt engineering to fine-tune responses. Incorporated user feedback mechanisms to continually improve user experience. !
